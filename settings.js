@@ -1,16 +1,13 @@
 const settings = {
   packname: 'Knight Bot',
   author: '‎',
-  botName: "Knight Bot",
-  botOwner: 'Professor', // Your name
-  ownerNumber: '919876543210', //Set your number here without + symbol, just add country code & number without any space
+  botName: "Pluton Bot",
+  botOwner: 'brian', // Your name
+  ownerNumber: '260967513164', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
-  commandMode: "public",
-  maxStoreMessages: 20, 
-  storeWriteInterval: 10000,
+  commandMode: "private",
   description: "This is a bot for managing group commands and automating tasks.",
-  version: "3.0.1",
-  updateZipUrl: "https://github.com/mruniquehacker/Knightbot-MD/archive/refs/heads/main.zip",
+  version: "2.0.1",
 };
 
 module.exports = settings;
